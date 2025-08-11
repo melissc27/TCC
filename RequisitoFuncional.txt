@@ -3,3 +3,4 @@ REQUISITOS FUNCIONAIS
 RF01 - Registrar pedido de pizza
 RF02 - Consultar status do pedido
 RF03 - Permitir que o administrador edite o produto
+RF04 - Exibir lista de produtos cadastrados
