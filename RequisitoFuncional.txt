@@ -1,8 +1,19 @@
 REQUISITOS FUNCIONAIS
 
-RF01 - Registrar pedido de pizza
-RF02 - Consultar status do pedido
-RF03 - Permitir que o administrador edite o produto
-RF04 - Exibir lista de produtos cadastrados
-RF05 - Permitir criar categoria
-RF06 - Permitir que o administrador exclua produtos
+RF01 - permitir login administrador.
+RN1 -  O administrador deve estar logado para acessar o sistema.
+
+RF02 - Permitir que o administrador cadastre produtos informando nome, descrição e preço.
+RN2 - Produtos devem conter nome, descrição e preço antes de serem cadastrados.
+
+RF03 - Permitir que o administrador edite produtos.
+RN2 - Produtos devem conter nome, descrição e preço antes de serem cadastrados.
+
+RF04 - Exibir lista de produtos cadastrados. 
+RN2 -  Produtos devem conter nome, descrição e preço antes de serem cadastrados.
+
+RF05 - Permitir que o administrador exclue produtos.
+RN2  Produtos devem conter nome, descrição e preço antes de serem cadastrados.
+
+RF06 - Permitir criar catergoria.
+RN5 - Para criar uma catergoria ela previsa ter nome.
