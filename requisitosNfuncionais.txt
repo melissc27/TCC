@@ -1,0 +1,5 @@
+RFN01 - Interface intuitiva e fácil de navegar.
+RFN02 - Servidor configurado para rodar na porta 3333.
+RFN03 - Uso de API REST com Express para troca de dados entre cliente e servidor
+RFN04 - A exclusão deve pedir confirmação antes de concluir.
+RFN05 - As alterações devem aparecer imediatamente no sistema.
