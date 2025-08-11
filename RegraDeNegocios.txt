@@ -10,4 +10,7 @@ RN03 Para cadastrar o administrador é obrigado a informar nome, e-mail e senha.
 RN04 Para fazer login, o administrador deve informar e-mail e senha válidos cadastradosno sistema.
 RN1
 
+
 RN05 Para criar uma catergoria ela previsa ter nome.
+
+RN06 Para fazer um pedido, é preciso informar nome, número da mesa e produto.
