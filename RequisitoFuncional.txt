@@ -5,3 +5,4 @@ RF02 - Consultar status do pedido
 RF03 - Permitir que o administrador edite o produto
 RF04 - Exibir lista de produtos cadastrados
 RF05 - Permitir criar categoria
+RF06 - Permitir que o administrador exclua produtos
